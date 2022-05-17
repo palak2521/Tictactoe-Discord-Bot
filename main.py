@@ -139,5 +139,5 @@ async def place_error(ctx, error):
     elif isinstance(error, commands.BadArgument):
         await ctx.send("Please make sure to enter an integer.")
 
-client.run('OTc1NjYwOTM4NzMwNTY5NzY4.GAGI-l.HyZbI1O4U5hG-Q6G8CIyw4s6wrVmDgkt5kdz70')
+client.run("YOUR_TOKEN")
 
